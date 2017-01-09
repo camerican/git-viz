@@ -15,6 +15,13 @@ h1 {
   vertical-align: bottom;
   height:100%;
 }
+.branch h2 {
+  margin: 20px 0 0;
+  padding: 3px;
+  background-color: rgba(155,155,155,0.7);
+  border: 2px solid #666;
+  border-radius: 5px;
+}
 ol li {
   border: 2px dashed grey;
   background-color: pink;
