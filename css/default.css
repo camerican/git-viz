@@ -8,6 +8,7 @@ body {
 h1 { 
   font-family: Verdana, serif;
   text-transform: uppercase; 
+  cursor: pointer;
 }
 .branch {
   display:inline-block;
